@@ -1,13 +1,12 @@
 
-# Hi there I'm Ali Amin Junior DevOps Consultant! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.ali-tm-amin}.${your.abumarwa})
+# Hi there I'm Ali Amin, a Junior DevOps Consultant! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+Glad to see you here and welcome! ![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.ali-tm-amin}.${your.abumarwa})
 
 ### **Personal Information:**
 
 - :round_pushpin: **Bedfordshire** Based
 - :cyclone: **Junior DevOp Engineer**
-- :trophy: **2nd Class** degree in Computing & Mathmatical Sciense at Londonmet
-
+- :trophy: **2nd Class** degree in Computing & Mathmatical Science at Londonmet University
 
 &nbsp;
 
