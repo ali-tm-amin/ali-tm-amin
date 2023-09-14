@@ -1,6 +1,6 @@
 
 # Hi there; I'm Ali Amin a Junior DevOps Consultant! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-Glad to see you here and welcome! ![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.ali-tm-amin}.${your.abumarwa})
+Glad to see you here and welcome! ![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.ali-tm-amin}.${your.ali-tm-amin})
 
 ### **Personal Information:**
 
