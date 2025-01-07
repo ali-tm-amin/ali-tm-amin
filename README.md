@@ -1,37 +1,48 @@
+# Hi there, I'm **Ali Amin** – A Passionate DevOps Engineer! 👋  
 
-# Hi there; I'm Ali Amin a Junior DevOps Engineer! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### 🌍 **About Me**  
+I’m a results-driven DevOps Engineer with a strong foundation in cloud infrastructure, automation, and CI/CD practices. Based in **Bedfordshire**, I hold a **2nd Class Honours** degree in Computing and Mathematical Science from **London Metropolitan University**. With a focus on delivering scalable and efficient solutions, I’m always eager to learn and take on new challenges in the ever-evolving tech landscape.  
 
-### **Personal Information:**
+&nbsp;  
 
-- :round_pushpin: **Bedfordshire** Based
-- :cyclone: **Junior DevOp Engineer**
-- :trophy: **2nd Class** degree in Computing & Mathmatical Science at Londonmet University
+### 🚀 **Technical Skills**  
 
-&nbsp;
+#### **DevOps Tools & Technologies**  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)  
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=white)  
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)  
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)  
+![Vagrant](https://img.shields.io/badge/-Vagrant-1563FF?style=flat&logo=vagrant&logoColor=white)  
 
-### **Technical Skills**
+#### **Programming & Scripting Languages**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=yellow)  
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)  
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=yellow)
-![MYSQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
-![Vagrant](https://img.shields.io/badge/-Vagrant-1563FF?style=flat&logo=Vagrant&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white)
-![AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white)
-![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=Ansible&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-623Ce4?style=flat&logo=Terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
+#### **Source Code & Collaboration**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
+![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)  
 
-![Microsoft Word](https://img.shields.io/badge/-Microsoft%20Word-164ead?style=flat&logo=microsoft%20word)
-![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-026f39?style=flat&logo=microsoft%20excel)
-![Microsoft powerpoint](https://img.shields.io/badge/-Microsoft%20PowerPoint-b9361a?style=flat&logo=microsoft%20powerpoint)
-![Microsoft Teams](https://img.shields.io/badge/-Microsoft%20Teams-6264A7?style=flat&logo=Microsoft%20Teams&logoColor=white)
-![Microsoft One Drive](https://img.shields.io/badge/-Microsoft%20OneDrive-0078D4?style=flat&logo=Microsoft%20OneDrive&logoColor=white)
-![Microsoft VisualStudio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=Visual%20Studio&logoColor=white)
+&nbsp;  
 
-&nbsp;
+### 🏆 **Professional Highlights**  
+- **Infrastructure Optimisation**: Delivered cost savings and improved performance through optimising AWS resources and implementing modern CI/CD pipelines.  
+- **Cloud Expertise**: Hands-on experience with **AWS**, **Azure**, Kubernetes, and Docker for scalable infrastructure solutions.  
+- **Automation Enthusiast**: Developed Infrastructure as Code (IaC) solutions using **Terraform** and automated configuration management with **Ansible**.  
+- **Collaboration Champion**: Recognised for fostering effective communication and teamwork across cross-functional teams.  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olejekglejek&hide=TeX&layout=compact)
+&nbsp;  
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ali-tm-amin&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+### 📈 **GitHub Stats**  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-tm-amin&hide=TeX&layout=compact&theme=radical)  
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ali-tm-amin&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />  
+
+&nbsp;  
+
+### 🌟 **Let’s Connect!**  
+I’m always open to collaborating on exciting projects or discussing all things DevOps! Feel free to reach out or connect with me on LinkedIn.  
