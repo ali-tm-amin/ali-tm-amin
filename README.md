@@ -34,16 +34,4 @@ I’m a results-driven DevOps Engineer with a strong foundation in cloud infrast
 &nbsp;  
 
 ### 🌟 **Let’s Connect!**  
-I’m always open to collaborating on exciting projects or discussing all things DevOps! Feel free to reach out or connect with me on LinkedIn.  
-
-&nbsp;  
-
-### 📈 **GitHub Stats**  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-tm-amin&hide=TeX&layout=compact&theme=radical)  
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ali-tm-amin&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />  
-
-&nbsp;  
-
-### 🌟 **Let’s Connect!**  
-I’m always open to collaborating on exciting projects or discussing all things DevOps! Feel free to reach out or connect with me on LinkedIn.  
+I’m always open to collaborating on exciting projects or discussing DevOps and AI! Feel free to reach out or connect with me on [Linkedin](https://www.linkedin.com/in/ali-tm-amin/).  
